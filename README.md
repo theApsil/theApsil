@@ -1,8 +1,7 @@
 <div id="header" align="center">
   <h1>Hi there 👋</h1>
-  <img src="https://media.giphy.com/media/3osxY5srzVZrwq3cFq/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/sRFEa8lbeC7zbcIZZR/giphy.gif" width="100"/>
 </div>
-
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
