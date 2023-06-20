@@ -1,8 +1,8 @@
-
-<div id="header">
-  <img src="https://media.giphy.com/media/sRFEa8lbeC7zbcIZZR/giphy.gif" width="100"/>
-</div>
 <h1>Hi there 👋</h1>
+<div id="header">
+  <img src="https://camo.githubusercontent.com/6510c79f86cdd5e32cf6c5b009548bf09c137f06cffe87acbf41e68cbf0402c1/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57465a7642375649584267697a336f4458452f67697068792e676966" width="100"/>
+</div>
+
 <h1>🛠️ Languages and Tools :</h1>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
