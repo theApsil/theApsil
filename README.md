@@ -1,7 +1,7 @@
 <div id="header" align="center">
+  <h1>Hi there 👋</h1>
   <img src="https://media.giphy.com/media/3osxY5srzVZrwq3cFq/giphy.gif" width="100"/>
 </div>
-### Hi there 👋
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
