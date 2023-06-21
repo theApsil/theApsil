@@ -2,7 +2,7 @@
 <div id="header">
   <img src="https://camo.githubusercontent.com/6510c79f86cdd5e32cf6c5b009548bf09c137f06cffe87acbf41e68cbf0402c1/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57465a7642375649584267697a336f4458452f67697068792e676966" width="100"/>
 </div>
-🎓 <b>I am a Program Engineering student of Far Easter Federal Universuty (Graduate 2024)<br>
+🎓 <b>I am a Program Engineering student of Far Eastern Federal Universuty (Graduate 2024)<br>
 🧠 I have a passion for problem solving and learning new technologies.<br>
 👨‍🏫 Yandex educational assistant direction - algorithmization and technologies.<br>
 👨‍💻 Currently working on a Pascal to C++ translator.</b>
