@@ -7,6 +7,7 @@
 👨‍🏫 Yandex educational assistant direction - algorithmization and technologies.<br>
 👨‍💻 20.06.2023: C++ to Pascal translator. ✅04.12.2023 Finished✅<br>
 👨‍💻 16.12.2023: Json Rest API sever to-do list (Flask + SQLAlchemy)✅21.12.2023 Finished✅<br>
+👨‍💻 05.01.2024: Farpost parser (BS4 + Tkinter) <br>
 👨‍🏫 Teacher in HSC FEFU<br>
 👨‍💻 Currently working in Roscongress</b>
 <img src = "https://camo.githubusercontent.com/5531f294dbc926191e72f2c5931348ba2650d3375b926a147260f5323e0077a6/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f785541376264704c78516873535164796f672f67697068792e6769663f6369643d373930623736313165343538343731353265613161653737613633353134303031383133356635336362313831643565267269643d67697068792e6769662663743d67" width="300"/>
