@@ -5,9 +5,10 @@
 🎓 <b>I am a Program Engineering student of Far Eastern Federal Universuty (Graduate 2024)<br>
 🧠 I have a passion for problem solving and learning new technologies.<br>
 👨‍🏫 Yandex educational assistant direction - algorithmization and technologies.<br>
-👨‍💻 20.06.2023: <a href="https://github.com/theApsil/Cpp-translator" title=\"C++ to Pascal translator\">C++ to Pascal translator</a>✅04.12.2023 Finished✅<br>
+👨‍💻 20.06.2023: <a href="https://github.com/theApsil/Cpp-translator">C++ to Pascal translator</a>✅04.12.2023 Finished✅<br>
 👨‍💻 16.12.2023: <a href="https://github.com/theApsil/RESTful-API">Json Rest API sever to-do list (Flask + SQLAlchemy)</a>✅21.12.2023 Finished✅<br>
 👨‍💻 05.01.2024: <a href="https://github.com/theApsil/Sambo.ru-parsing">Sambo.ru parser (BS4 + requests + pandas)</a>✅06.01.2024 Finished✅<br>
+👨‍💻 15.01.2024: <a href="https://github.com/theApsil/Testing-system-Django-REST-MVC">Testing system for students (Django, Django REST, Django ORM, Postgresql)</a>✅20.01.2024 Finished✅<br>
 👨‍🏫 Teacher in HSC FEFU<br>
 👨‍💻 Currently working in Roscongress</b>
 
