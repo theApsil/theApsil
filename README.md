@@ -9,6 +9,7 @@
 👨‍💻 16.12.2023: <a href="https://github.com/theApsil/RESTful-API">Json Rest API sever to-do list (Flask + SQLAlchemy)</a>✅21.12.2023 Finished✅<br>
 👨‍💻 05.01.2024: <a href="https://github.com/theApsil/Sambo.ru-parsing">Sambo.ru parser (BS4 + requests + pandas)</a>✅06.01.2024 Finished✅<br>
 👨‍💻 15.01.2024: <a href="https://github.com/theApsil/Testing-system-Django-REST-MVC">Testing system for students (Django, Django REST, Django ORM, Postgresql)</a>✅20.01.2024 Finished✅<br>
+💻 12.06.2024: <a href="https://github.com/theApsil/SilaTaigi_Bot"> Бот для салона красоты "Сила тайги" (Telegram bot API, asyncio)</a>✅12.06.2024 Finished✅<br>
 👨‍🏫 Teacher in HSC FEFU<br>
 👨‍💻 Currently working in <a href="https://pskb.com/">PrimSocBank </b>
 
