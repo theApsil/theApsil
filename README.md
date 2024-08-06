@@ -11,7 +11,7 @@
 👨‍💻 15.01.2024: <a href="https://github.com/theApsil/Testing-system-Django-REST-MVC">Testing system for students (Django, Django REST, Django ORM, Postgresql)</a>✅20.01.2024 Finished✅<br>
 💻 12.06.2024: <a href="https://github.com/theApsil/SilaTaigi_Bot"> Бот для салона красоты "Сила тайги" (Telegram bot API, asyncio)</a>✅12.06.2024 Finished✅<br>
 👨‍🏫 Teacher in <a href="https://dnk-dvfu.ru/">HSC </a><br>
-👨‍🏫 Teacher in <a href="https://dvfu.ru/">FEFU (Web programming, algorithmization and technologies) </a><br>
+👨‍🏫 Teacher in <a href="https://dvfu.ru/">FEFU </a>(Web programming, algorithmization and technologies) <br>
 👨‍💻 Ex working in <a href="https://vk.com/">VKontakte </a><br>
 👨‍💻 Ex working in <a href="https://rk-avangard.ru/">RC Avangard </a><br>
 👨‍💻 Ex working in <a href="https://pskb.com/">PrimSocBank </a></b>
