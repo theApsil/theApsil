@@ -10,10 +10,10 @@
 👨‍💻 05.01.2024: <a href="https://github.com/theApsil/Sambo.ru-parsing">Sambo.ru parser (BS4 + requests + pandas)</a>✅06.01.2024 Finished✅<br>
 👨‍💻 15.01.2024: <a href="https://github.com/theApsil/Testing-system-Django-REST-MVC">Testing system for students (Django, Django REST, Django ORM, Postgresql)</a>✅20.01.2024 Finished✅<br>
 💻 12.06.2024: <a href="https://github.com/theApsil/SilaTaigi_Bot"> Бот для салона красоты "Сила тайги" (Telegram bot API, asyncio)</a>✅12.06.2024 Finished✅<br>
-👨‍🏫 Teacher in <a href="https://dnk-dvfu.ru/">HSC FEFU</a><br>
-👨‍💻 Ex working in <a href="https://vk.com/">VKontakte </b>
-👨‍💻 Ex working in <a href="https://rk-avangard.ru/">RC Avangard </b>
-👨‍💻 Ex working in <a href="https://pskb.com/">PrimSocBank </b>
+👨‍🏫 Teacher in <a href="https://dnk-dvfu.ru/">HSC </a><br>
+👨‍💻 Ex working in <a href="https://vk.com/">VKontakte </a><br>
+👨‍💻 Ex working in <a href="https://rk-avangard.ru/">RC Avangard </a><br>
+👨‍💻 Ex working in <a href="https://pskb.com/">PrimSocBank </a></b>
 
 
   <img src = "https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="300"/>
