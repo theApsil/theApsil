@@ -4,13 +4,14 @@
 
 🎓 <b>I am a Program Engineering student of Far Eastern Federal Universuty (Graduate 2024)<br>
 🧠 I have a passion for problem solving and learning new technologies.<br>
-👨‍🏫 Yandex educational assistant direction - algorithmization and technologies.<br>
+👨‍🏫 Yandex assistant in FEFU direction - algorithmization and technologies.<br>
 👨‍💻 20.06.2023: <a href="https://github.com/theApsil/Cpp-translator">C++ to Pascal translator</a>✅04.12.2023 Finished✅<br>
 👨‍💻 16.12.2023: <a href="https://github.com/theApsil/RESTful-API">Json Rest API sever to-do list (Flask + SQLAlchemy)</a>✅21.12.2023 Finished✅<br>
 👨‍💻 05.01.2024: <a href="https://github.com/theApsil/Sambo.ru-parsing">Sambo.ru parser (BS4 + requests + pandas)</a>✅06.01.2024 Finished✅<br>
 👨‍💻 15.01.2024: <a href="https://github.com/theApsil/Testing-system-Django-REST-MVC">Testing system for students (Django, Django REST, Django ORM, Postgresql)</a>✅20.01.2024 Finished✅<br>
 💻 12.06.2024: <a href="https://github.com/theApsil/SilaTaigi_Bot"> Бот для салона красоты "Сила тайги" (Telegram bot API, asyncio)</a>✅12.06.2024 Finished✅<br>
 👨‍🏫 Teacher in <a href="https://dnk-dvfu.ru/">HSC </a><br>
+👨‍🏫 Teacher in <a href="https://dvfu.ru/">FEFU (Web programming, algorithmization and technologies) </a><br>
 👨‍💻 Ex working in <a href="https://vk.com/">VKontakte </a><br>
 👨‍💻 Ex working in <a href="https://rk-avangard.ru/">RC Avangard </a><br>
 👨‍💻 Ex working in <a href="https://pskb.com/">PrimSocBank </a></b>
