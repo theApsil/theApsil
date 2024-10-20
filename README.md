@@ -2,20 +2,29 @@
 <div id="header">
   <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTlrNHphOXRlNDNta2Jja2k1bTBta2o1aTNocTc3dnBrMThmMTNzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="300"/>
 
-🎓 <b>I am a Program Engineering student of Far Eastern Federal Universuty (Graduate 2024)<br>
+🎓 <b>Bachelor's degree graduate of Program Engineering in Far Eastern Federal Universuty<br>
+🎓 Masters degree student Program Engineering of Far Eastern Federal Universuty<br>
 🧠 I have a passion for problem solving and learning new technologies.<br>
-👨‍🏫 Yandex assistant in FEFU direction - algorithmization and technologies.<br>
+
+## Carreer
+#### Now
+👨‍🏫 <a href="https://practicum.yandex.ru/">Yandex.Practicum</a> teacher in FEFU direction - backend development.<br>
+👨‍🏫 Teacher in <a href="https://dnk-dvfu.ru/">HSC </a><br>
+👨‍🏫 Teacher in <a href="https://dvfu.ru/">FEFU </a>(Web programming, algorithmization and technologies) <br>
+
+#### Before
+👨‍💻 Intern backend dev <a href="https://vk.com/">VKontakte </a><br>
+👨‍💻 Middle data analysist <a href="https://rk-avangard.ru/">RC Avangard </a><br>
+👨‍💻 Middle developer <a href="https://pskb.com/">PrimSocBank </a></b><br>
+
+## Pet projects
 👨‍💻 20.06.2023: <a href="https://github.com/theApsil/Cpp-translator">C++ to Pascal translator</a>✅04.12.2023 Finished✅<br>
 👨‍💻 16.12.2023: <a href="https://github.com/theApsil/RESTful-API">Json Rest API sever to-do list (Flask + SQLAlchemy)</a>✅21.12.2023 Finished✅<br>
 👨‍💻 05.01.2024: <a href="https://github.com/theApsil/Sambo.ru-parsing">Sambo.ru parser (BS4 + requests + pandas)</a>✅06.01.2024 Finished✅<br>
 👨‍💻 15.01.2024: <a href="https://github.com/theApsil/Testing-system-Django-REST-MVC">Testing system for students (Django, Django REST, Django ORM, Postgresql)</a>✅20.01.2024 Finished✅<br>
 💻 12.06.2024: <a href="https://github.com/theApsil/SilaTaigi_Bot"> Бот для салона красоты "Сила тайги" (Telegram bot API, asyncio)</a>✅12.06.2024 Finished✅<br>
 💻 19.10.2024: <a href="https://github.com/XivC/memgen"> Генератор S1mple type мемов (Python, Pillow, numpy)</a>✅21.10.2024 ver. 1.0 Finished✅<br>
-👨‍🏫 Teacher in <a href="https://dnk-dvfu.ru/">HSC </a><br>
-👨‍🏫 Teacher in <a href="https://dvfu.ru/">FEFU </a>(Web programming, algorithmization and technologies) <br>
-👨‍💻 Ex working in <a href="https://vk.com/">VKontakte </a><br>
-👨‍💻 Ex working in <a href="https://rk-avangard.ru/">RC Avangard </a><br>
-👨‍💻 Ex working in <a href="https://pskb.com/">PrimSocBank </a></b>
+
 
 </div>
 
