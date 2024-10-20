@@ -10,6 +10,7 @@
 👨‍💻 05.01.2024: <a href="https://github.com/theApsil/Sambo.ru-parsing">Sambo.ru parser (BS4 + requests + pandas)</a>✅06.01.2024 Finished✅<br>
 👨‍💻 15.01.2024: <a href="https://github.com/theApsil/Testing-system-Django-REST-MVC">Testing system for students (Django, Django REST, Django ORM, Postgresql)</a>✅20.01.2024 Finished✅<br>
 💻 12.06.2024: <a href="https://github.com/theApsil/SilaTaigi_Bot"> Бот для салона красоты "Сила тайги" (Telegram bot API, asyncio)</a>✅12.06.2024 Finished✅<br>
+💻 19.10.2024: <a href="https://github.com/XivC/memgen"> Генератор S1mple type мемов (Python, Pillow, numpy)</a>✅21.10.2024 ver. 1.0 Finished✅<br>
 👨‍🏫 Teacher in <a href="https://dnk-dvfu.ru/">HSC </a><br>
 👨‍🏫 Teacher in <a href="https://dvfu.ru/">FEFU </a>(Web programming, algorithmization and technologies) <br>
 👨‍💻 Ex working in <a href="https://vk.com/">VKontakte </a><br>
