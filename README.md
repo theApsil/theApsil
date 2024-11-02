@@ -2,8 +2,8 @@
 <div id="header">
   <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTlrNHphOXRlNDNta2Jja2k1bTBta2o1aTNocTc3dnBrMThmMTNzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="300"/>
 
-🎓 <b>Bachelor's degree graduate of Program Engineering in Far Eastern Federal Universuty<br>
-🎓 Masters degree student Program Engineering of Far Eastern Federal Universuty<br>
+🎓 <b>Bachelor's degree graduate of Software Engineering in Far Eastern Federal Universuty<br>
+🎓 Masters degree student Software Engineering of Far Eastern Federal Universuty<br>
 🧠 I have a passion for problem solving and learning new technologies.<br>
 
 ## Carreer
