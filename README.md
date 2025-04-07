@@ -9,7 +9,7 @@
 ## Carreer
 #### Now
 🤵‍♂️ Lead of FEFU AI Laboratory (since dec. 2024)<br>
-👨‍🏫 <a href="https://practicum.yandex.ru/">Yandex.Practicum</a> teacher in FEFU direction - backend development
+👨‍🏫 <a href="https://practicum.yandex.ru/">Yandex.Practicum</a> teacher in FEFU direction - backend development<br>
 👨‍🏫 Teacher in <a href="https://dnk-dvfu.ru/">HSC (Basic IT Education)</a><br>
 👨‍🏫 Teacher in <a href="https://dpo.dvfu.ru/dd-new">Digital Department</a> (Data Analytics)<br>
 👨‍🏫 Teacher in <a href="https://dvfu.ru/">FEFU </a>(Backend Development, algorithmization and technologies, NLP, ML) <br>
