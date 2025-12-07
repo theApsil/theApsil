@@ -7,17 +7,29 @@
 🧠 I have a passion for problem solving and learning new technologies.<br>
 
 ## Carreer
+
 #### Now
-🤵‍♂️ Lead of FEFU AI Laboratory (since dec. 2024)<br>
+👨‍💻 Middle Python backend developer <a href="https://www.tbank.ru/"> TBank </a> (since december 2025)<br>
+
+#### Before
+
+---
+👨‍💻IT
+---
+
+👨‍💻 Intern backend dev <a href="https://vk.com/">VKontakte </a><br>
+👨‍💻 Middle data analysist <a href="https://rk-avangard.ru/">RC Avangard </a><br>
+👨‍💻 Middle developer <a href="https://pskb.com/">PrimSocBank </a></b><br>
+🤵‍♂️ Lead of FEFU AI Laboratory (dec. 2024 - dec. 2025)<br>
+
+---
+👨‍🏫Teaching
+---
+
 👨‍🏫 <a href="https://practicum.yandex.ru/">Yandex.Practicum</a> teacher in FEFU direction - backend development<br>
 👨‍🏫 Teacher in <a href="https://dnk-dvfu.ru/">HSC (Basic IT Education)</a><br>
 👨‍🏫 Teacher in <a href="https://dpo.dvfu.ru/dd-new">Digital Department</a> (Data Analytics)<br>
 👨‍🏫 Teacher in <a href="https://dvfu.ru/">FEFU </a>(Backend Development, algorithmization and technologies, NLP, ML) <br>
-
-#### Before
-👨‍💻 Intern backend dev <a href="https://vk.com/">VKontakte </a><br>
-👨‍💻 Middle data analysist <a href="https://rk-avangard.ru/">RC Avangard </a><br>
-👨‍💻 Middle developer <a href="https://pskb.com/">PrimSocBank </a></b><br>
 
 ## Pet projects
 💻 20.06.2023: <a href="https://github.com/theApsil/Cpp-translator">C++ to Pascal translator</a>✅04.12.2023 Finished✅<br>
