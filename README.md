@@ -2,12 +2,11 @@
 
 ![snake animation](https://raw.githubusercontent.com/theapsil/theapsil/output/github-contribution-grid-snake-dark.svg)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theApsil&theme=moonlight&animation=load&name=theApsil)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=theApsil&theme=moonlight&animation=load&exclude=HTML%2C+pug)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=theApsil&theme=moonlight&animation=load&exclude=HTML%2C+pug)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=theApsil&theme=moonlight&animation=load)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=theApsil&theme=moonlight&animation=load&utcOffset=10)
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theApsil&theme=github_dark&animation=load&name=theApsil)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=theApsil&theme=github_dark&animation=load&exclude=HTML%2C+pug)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=theApsil&theme=github_dark&animation=load&exclude=HTML%2C+pug)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=theApsil&theme=github_dark&animation=load)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=theApsil&theme=github_dark&animation=load&utcOffset=10)
 
 🎓 <b>Bachelors degree graduate of Software Engineering in Far Eastern Federal Universuty<br>
 🎓 Masters degree graduate Software Engineering in Far Eastern Federal Universuty<br>
