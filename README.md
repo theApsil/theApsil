@@ -1,44 +1,23 @@
 <h1>Hi there, I am Danil 👋</h1>
 
 ![snake animation](https://raw.githubusercontent.com/theapsil/theapsil/output/github-contribution-grid-snake-dark.svg)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theApsil&theme=moonlight&animation=load&name=theApsil)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=theApsil&theme=moonlight&animation=load&exclude=HTML%2C+pug)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=theApsil&theme=moonlight&animation=load&exclude=HTML%2C+pug)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=theApsil&theme=moonlight&animation=load)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=theApsil&theme=moonlight&animation=load&utcOffset=10)
 
-🎓 <b>Bachelor's degree graduate of Software Engineering in Far Eastern Federal Universuty<br>
-🎓 Masters degree student Software Engineering of Far Eastern Federal Universuty<br>
+
+🎓 <b>Bachelors degree graduate of Software Engineering in Far Eastern Federal Universuty<br>
+🎓 Masters degree graduate Software Engineering in Far Eastern Federal Universuty<br>
 🧠 I have a passion for problem solving and learning new technologies.<br>
+
 
 ## Carreer
 
-#### Now
 👨‍💻 Middle Python R&D Engineer <a href="https://www.tbank.ru/"> TBank </a> (since december 2025)<br>
 🗃️ Databases & Analytics Engines
-#### Before
-
----
-👨‍💻IT
----
-
-👨‍💻 Intern backend dev <a href="https://vk.com/">VKontakte </a><br>
-👨‍💻 Middle data analysist <a href="https://rk-avangard.ru/">RC Avangard </a><br>
-👨‍💻 Middle developer <a href="https://pskb.com/">PrimSocBank </a></b><br>
-🤵‍♂️ Lead of FEFU AI Laboratory (dec. 2024 - dec. 2025)<br>
-
----
-👨‍🏫Teaching
----
-
-👨‍🏫 <a href="https://practicum.yandex.ru/">Yandex.Practicum</a> teacher in FEFU direction - backend development<br>
-👨‍🏫 Teacher in <a href="https://dnk-dvfu.ru/">HSC (Basic IT Education)</a><br>
-👨‍🏫 Teacher in <a href="https://dpo.dvfu.ru/dd-new">Digital Department</a> (Data Analytics)<br>
 👨‍🏫 Teacher in <a href="https://dvfu.ru/">FEFU </a>(Backend Development, algorithmization and technologies, NLP, ML) <br>
-
-## Pet projects
-💻 20.06.2023: <a href="https://github.com/theApsil/Cpp-translator">C++ to Pascal translator</a>✅04.12.2023 Finished✅<br>
-💻 16.12.2023: <a href="https://github.com/theApsil/RESTful-API">Json Rest API sever to-do list (Flask + SQLAlchemy)</a>✅21.12.2023 Finished✅<br>
-💻 05.01.2024: <a href="https://github.com/theApsil/Sambo.ru-parsing">Sambo.ru parser (BS4 + requests + pandas)</a>✅06.01.2024 Finished✅<br>
-💻 15.01.2024: <a href="https://github.com/theApsil/Testing-system-Django-REST-MVC">Testing system for students (Django, Django REST, Django ORM, Postgresql)</a>✅20.01.2024 Finished✅<br>
-💻 12.06.2024: <a href="https://github.com/theApsil/SilaTaigi_Bot"> Бот для салона красоты "Сила тайги" (Telegram bot API, asyncio)</a>✅12.06.2024 Finished✅<br>
-💻 19.10.2024: <a href="https://github.com/XivC/memgen"> Генератор S1mple type мемов (Python, Pillow, numpy)</a>✅21.10.2024 ver. 1.0 Finished✅<br>
-
 
 </div>
 
