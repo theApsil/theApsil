@@ -12,7 +12,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # Важно: даем права на запись
+      contents: write
     
     steps:
       - name: Checkout
@@ -24,7 +24,8 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            # Измените palette ниже на любую из списка
+            dist/github-contribution-grid-snake-dark.svg?palette=tokyonight
 
       - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v4
