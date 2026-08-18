@@ -2,8 +2,8 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Запуск каждый день в 00:00 UTC
-  workflow_dispatch:     # Возможность запустить вручную
+    - cron: "0 0 * * *"
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -11,9 +11,12 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Важно: даем права на запись
+    
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Generate Snake
         uses: Platane/snk@v3
@@ -23,9 +26,11 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push changes
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Push to output branch
+        uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: dist
           publish_branch: output
+          user_name: github-actions[bot]
+          user_email: github-actions[bot]@users.noreply.github.com
