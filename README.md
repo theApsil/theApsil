@@ -1,5 +1,7 @@
 <h1>Hi there, I am Danil 👋</h1>
 
+![snake animation](https://raw.githubusercontent.com/theapsil/theapsil/output/github-contribution-grid-snake-dark.svg)
+
 🎓 <b>Bachelor's degree graduate of Software Engineering in Far Eastern Federal Universuty<br>
 🎓 Masters degree student Software Engineering of Far Eastern Federal Universuty<br>
 🧠 I have a passion for problem solving and learning new technologies.<br>
