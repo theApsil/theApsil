@@ -1,6 +1,4 @@
 <h1>Hi there, I am Danil 👋</h1>
-<div id="header">
-  <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTlrNHphOXRlNDNta2Jja2k1bTBta2o1aTNocTc3dnBrMThmMTNzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="300"/>
 
 🎓 <b>Bachelor's degree graduate of Software Engineering in Far Eastern Federal Universuty<br>
 🎓 Masters degree student Software Engineering of Far Eastern Federal Universuty<br>
@@ -9,8 +7,8 @@
 ## Carreer
 
 #### Now
-👨‍💻 Middle Python backend developer <a href="https://www.tbank.ru/"> TBank </a> (since december 2025)<br>
-
+👨‍💻 Middle Python R&D Engineer <a href="https://www.tbank.ru/"> TBank </a> (since december 2025)<br>
+🗃️ Databases & Analytics Engines
 #### Before
 
 ---
