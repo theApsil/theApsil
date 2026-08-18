@@ -24,7 +24,6 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
-            # Измените palette ниже на любую из списка
             dist/github-contribution-grid-snake-dark.svg?palette=tokyonight
 
       - name: Push to output branch
