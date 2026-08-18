@@ -1,70 +1,95 @@
-<h1>Hi there, I am Danil 👋</h1> 
+<div align="center">
+
+# 👋 Hi there, I am Danil
+
+🎓 **Bachelor's degree** in Software Engineering at Far Eastern Federal University  
+🎓 **Master's degree** in Software Engineering at Far Eastern Federal University  
+🔬 **PhD Student**  *Mathematical and Software Support for Computing Systems, Complexes, and Computer Networks*   
+🧠 Passionate about problem solving, Python and Data Engineering
+
+---
+
+## 💼 Career
+👨‍💻 **Middle Python R&D Engineer** at [TBank](https://www.tbank.ru/) | **Databases & Analytics Engines R&D**  
+👨‍🏫 **Teacher** at [FEFU](https://dvfu.ru/) *(Backend Development, Algorithmization, NLP, ML)*  
+
+---
 
 ![snake animation](https://raw.githubusercontent.com/theapsil/theapsil/output/github-contribution-grid-snake.svg)
 
+---
+
+## 📊 GitHub Stats
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theApsil&theme=github_dark&animation=load&name=theApsil)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=theApsil&theme=github_dark&animation=load&exclude=HTML%2C+pug)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=theApsil&theme=github_dark&animation=load&exclude=HTML%2C+pug)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=theApsil&theme=github_dark&animation=load)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=theApsil&theme=github_dark&animation=load&utcOffset=10)
 
-🎓 <b>Bachelors degree graduate of Software Engineering in Far Eastern Federal Universuty<br>
-🎓 Masters degree graduate Software Engineering in Far Eastern Federal Universuty<br>
-🧠 I have a passion for problem solving and learning new technologies.<br>
+---
+
+## 🛠️ Tech Stack
+
+### 🐍 Core Python
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![AsyncIO](https://img.shields.io/badge/AsyncIO-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Type Hinting](https://img.shields.io/badge/Type_Hinting-3670A0?style=for-the-badge&logo=python&logoColor=white)
+
+### 🌐 Backend Frameworks
+![FastAPI](https://img.shields.io/badge/FastAPI-092E20?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-092E20?style=for-the-badge&logo=flask&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-092E20?style=for-the-badge&logo=celery&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/Gunicorn-092E20?style=for-the-badge&logo=gunicorn&logoColor=white)
+
+### 📊 Data, ML & Science
+![NumPy](https://img.shields.io/badge/NumPy-FF6B6B?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-FF6B6B?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-FF6B6B?style=for-the-badge&logo=scipy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-FF6B6B?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-FF6B6B?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-FF6B6B?style=for-the-badge&logo=keras&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6B6B?style=for-the-badge&logo=xgboost&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FF6B6B?style=for-the-badge&logo=huggingface&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
+![Pillow](https://img.shields.io/badge/Pillow-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
+
+### 📈 BI & Analytics
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FF6600?style=for-the-badge&logo=clickhouse&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-FF6600?style=for-the-badge&logo=powerbi&logoColor=black)
+![Apache Superset](https://img.shields.io/badge/Apache_Superset-FF6600?style=for-the-badge&logo=apache-superset&logoColor=white)
 
 
-## Carreer
+### 🗄️ Databases & Data Platforms
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2D7D9A?style=for-the-badge&logo=postgresql&logoColor=white)
+![Greenplum](https://img.shields.io/badge/Greenplum-2D7D9A?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-2D7D9A?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-2D7D9A?style=for-the-badge&logo=redis&logoColor=white)
+![Trino](https://img.shields.io/badge/Trino-2D7D9A?style=for-the-badge&logo=trino&logoColor=white)
+![Apache Iceberg](https://img.shields.io/badge/Apache_Iceberg-2D7D9A?style=for-the-badge&logo=apache&logoColor=white)
+![DWH](https://img.shields.io/badge/DWH-2D7D9A?style=for-the-badge&logo=database&logoColor=white)
 
-👨‍💻 Middle Python R&D Engineer <a href="https://www.tbank.ru/"> TBank </a> (since december 2025)<br>
-🗃️ Databases & Analytics Engines
-👨‍🏫 Teacher in <a href="https://dvfu.ru/">FEFU </a>(Backend Development, algorithmization and technologies, NLP, ML) <br>
+### 🐳 DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-2496ED?style=for-the-badge&logo=git&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-2496ED?style=for-the-badge&logo=npm&logoColor=white)
+
+### 📐 Methodologies
+![SOLID](https://img.shields.io/badge/SOLID-FEAA2D?style=for-the-badge&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-FEAA2D?style=for-the-badge&logoColor=white)
+![Code Review](https://img.shields.io/badge/Code_Review-FEAA2D?style=for-the-badge&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-FEAA2D?style=for-the-badge&logo=agile&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-FEAA2D?style=for-the-badge&logo=scrum&logoColor=white)
+![Kanban](https://img.shields.io/badge/Kanban-FEAA2D?style=for-the-badge&logo=kanban&logoColor=white)
+
+
+---
+
+## 📫 Connect with me
+[![Telegram](https://img.shields.io/badge/Telegram-3670A0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/theapsil)
+[![Email](https://img.shields.io/badge/Email-3670A0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:goncharuk.job@mail.ru)
 
 </div>
-
-## Programming Languages
-![Python](https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-## Frameworks, Platforms and Libraries
-![Django](https://img.shields.io/badge/django-3670A0.svg?style=for-the-badge&logo=django&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/django-rest-3670A0.svg?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-3670A0?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-3670A0.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Pillow](https://img.shields.io/badge/pillow-3670A0.svg?style=for-the-badge&logo=python&logoColor=fff)
-![numpy](https://img.shields.io/badge/numpy-3670A0.svg?style=for-the-badge&logo=python&logoColor=fff)
-![pandas](https://img.shields.io/badge/pandas-3670A0.svg?style=for-the-badge&logo=python&logoColor=fff)
-![Qt](https://img.shields.io/badge/qt-%2300599C.svg?style=for-the-badge&logo=qt&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-%23323330.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Pug](https://img.shields.io/badge/pug-%23E34F26.svg?style=for-the-badge&logo=pug&logoColor=%2361DAFB)
-![Stylus](https://img.shields.io/badge/stylus-%23E34F26.svg?style=for-the-badge&logo=stylus&logoColor=%2361DAFB)
-![Docker](https://img.shields.io/badge/docker-%2300f.svg?style=for-the-badge&logo=docker&logoColor=%2361DAFB)
-
-
-## Databases
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-## Technologies
-![Celery](https://img.shields.io/badge/celery-%23a9cc54.svg?style=for-the-badge&logo=celery&logoColor=ddf4a4)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
-
-## Other skills
-![Solid](https://img.shields.io/badge/Solid-FEAA2D?style=for-the-badge&logoColor=white)
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-FEAA2D?style=for-the-badge&logoColor=white)
-![SCRUM](https://img.shields.io/badge/scrum-FEAA2D?style=for-the-badge&logoColor=white)
-![Kanban](https://img.shields.io/badge/kanban-FEAA2D?style=for-the-badge&logoColor=white)
-![Agile](https://img.shields.io/badge/agile-FEAA2D?style=for-the-badge&logoColor=white)
-![Code Review](https://img.shields.io/badge/code_review-FEAA2D?style=for-the-badge&logoColor=white)
-
