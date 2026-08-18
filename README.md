@@ -1,6 +1,6 @@
-<h1>Hi there, I am Danil 👋</h1>
+<h1>Hi there, I am Danil 👋</h1> 
 
-![snake animation](https://raw.githubusercontent.com/theapsil/theapsil/output/github-contribution-grid-snake-dark.svg)
+![snake animation](https://raw.githubusercontent.com/theapsil/theapsil/output/github-contribution-grid-snake.svg)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theApsil&theme=github_dark&animation=load&name=theApsil)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=theApsil&theme=github_dark&animation=load&exclude=HTML%2C+pug)
