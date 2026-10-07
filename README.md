@@ -11,7 +11,7 @@
 
 ## 💼 Career
 👨‍💻 **Middle Python R&D Engineer** at [TBank](https://www.tbank.ru/) | **Databases & Analytics Engines R&D**  
-👨‍🏫 **Teacher** at [FEFU](https://dvfu.ru/) *(Backend Development, Algorithmization, NLP, ML)*  
+👨‍🏫 **Teacher** at [FEFU](https://dvfu.ru/) *(Data Analytics, Backend Development*  
 
 ---
 
